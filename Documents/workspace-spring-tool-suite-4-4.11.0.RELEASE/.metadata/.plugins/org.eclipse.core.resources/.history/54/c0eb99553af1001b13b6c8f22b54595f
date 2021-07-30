@@ -1,0 +1,17 @@
+package br.org.generation.lojagames.model;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "tb_categoria")
+public class Categoria {
+	
+	private long id;
+	
+	private String tipo;
+	
+	
+	
+
+}

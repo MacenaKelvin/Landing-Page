@@ -1,0 +1,10 @@
+package br.org.generation.lojagames.model;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Categoria {
+	
+	
+
+}
